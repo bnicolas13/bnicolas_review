@@ -1,1 +1,1 @@
-package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+/** * Class: Item.java * Description: Creates an array of items to be sorted */package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
